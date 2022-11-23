@@ -1,0 +1,75 @@
+* {
+    font-family:'Roboto', sans-serif;
+    font-style: italic;
+    font-size: 26px;
+}
+body {
+background-color: #9cb8ca ;
+}
+
+table {
+    width: 800px;
+    height: 600px;  
+}
+
+#nav {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 16px;
+    background-color: lightblue;
+}
+
+th.nav {
+    border: 2px cornflowerblue solid;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+ul{
+  border: 3px lightslategray solid;
+  list-style: none;
+  display: inline-block; 
+  text-align: left;
+
+
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 14px;
+    margin: 5px;
+    padding: 3px;
+
+}
+
+#fondo{
+    width: 120%;
+    height: 100%;
+    background-size: cover;
+}
+
+tr.Curriculo{
+    text-align: center;
+    background-color: lightblue;
+
+}    
+td.img{
+    align-items: center;
+   padding: 2px;
+}
+
+#nombre1{
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+header{
+max-width: 800px;
+margin: auto;
+padding: 20px;
+}
+
